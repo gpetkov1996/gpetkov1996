@@ -1,6 +1,6 @@
 - Hello, my name is Genadi
 - I’m interested in programming
-- I’m currently learning Java and C#
+- I'm a fan of Java, C#, COBOL (mainframe in general) 
 - I’m looking to collaborate on different projects
 - How to reach me: g.petkov1996@gmail.com
 
